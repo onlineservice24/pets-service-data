@@ -1,0 +1,63 @@
+{
+  "sectionTitle": "Meet Our Expert Vets",
+  "description": "Our team of experienced veterinarians is dedicated to providing compassionate and high-quality care for your pets. Get to know the experts who make your pet’s health their top priority.",
+  "veterinarians": [
+    {
+      "id": 1,
+      "name": "Dr. Sarah Mitchell",
+      "designation": "Chief Veterinarian",
+      "specialization": "Small Animal Medicine & Surgery",
+      "experienceYears": 15,
+      "bio": "Dr. Mitchell has over 15 years of experience treating dogs and cats. She is passionate about preventive care and promoting healthy lifestyles for pets.",
+      "education": "DVM, Cornell University College of Veterinary Medicine",
+      "photoUrl": "https://example.com/images/dr-sarah-mitchell.jpg",
+      "contact": {
+        "email": "sarah.mitchell@petcareclinic.com",
+        "phone": "+1-555-123-4567"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Dr. Rajesh Kumar",
+      "designation": "Senior Veterinary Surgeon",
+      "specialization": "Orthopedic & Soft Tissue Surgery",
+      "experienceYears": 12,
+      "bio": "Dr. Kumar specializes in surgical procedures and has helped countless pets recover from injuries and complex health conditions.",
+      "education": "BVSc & AH, University of Sydney",
+      "photoUrl": "https://example.com/images/dr-rajesh-kumar.jpg",
+      "contact": {
+        "email": "rajesh.kumar@petcareclinic.com",
+        "phone": "+1-555-987-6543"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Dr. Emily Rodriguez",
+      "designation": "Veterinary Nutritionist",
+      "specialization": "Pet Nutrition & Weight Management",
+      "experienceYears": 9,
+      "bio": "Dr. Rodriguez helps pet owners design balanced meal plans that support long-term health and prevent obesity-related illnesses.",
+      "education": "DVM, University of California, Davis",
+      "photoUrl": "https://example.com/images/dr-emily-rodriguez.jpg",
+      "contact": {
+        "email": "emily.rodriguez@petcareclinic.com",
+        "phone": "+1-555-222-7788"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Dr. Michael Lee",
+      "designation": "Exotic Animal Specialist",
+      "specialization": "Reptiles, Birds & Small Mammals",
+      "experienceYears": 10,
+      "bio": "Dr. Lee provides expert care for exotic pets, focusing on habitat enrichment, nutrition, and disease prevention.",
+      "education": "DVM, University of Edinburgh",
+      "photoUrl": "https://example.com/images/dr-michael-lee.jpg",
+      "contact": {
+        "email": "michael.lee@petcareclinic.com",
+        "phone": "+1-555-334-9911"
+      }
+    }
+  ],
+  "lastUpdated": "2025-10-24"
+}

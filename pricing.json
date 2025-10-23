@@ -1,0 +1,52 @@
+{
+  "sectionTitle": "Pricing and Features",
+  "description": "Choose the perfect plan for your pet's needs. All our packages include essential health checks, expert consultations, and compassionate care.",
+  "plans": [
+    {
+      "id": 1,
+      "planName": "Basic Care",
+      "price": 49.99,
+      "currency": "USD",
+      "billingCycle": "per month",
+      "features": [
+        "General health check-up (once a month)",
+        "Vaccination reminders",
+        "Nail trimming and grooming advice",
+        "Access to online health records",
+        "Email support during clinic hours"
+      ],
+      "recommended": false
+    },
+    {
+      "id": 2,
+      "planName": "Premium Care",
+      "price": 89.99,
+      "currency": "USD",
+      "billingCycle": "per month",
+      "features": [
+        "Everything in Basic Care",
+        "Two in-clinic consultations per month",
+        "Dental cleaning (once every 6 months)",
+        "Nutrition and weight management plan",
+        "Priority appointment booking"
+      ],
+      "recommended": true
+    },
+    {
+      "id": 3,
+      "planName": "Ultimate Wellness",
+      "price": 149.99,
+      "currency": "USD",
+      "billingCycle": "per month",
+      "features": [
+        "Everything in Premium Care",
+        "Unlimited vet consultations",
+        "Free annual vaccination package",
+        "24/7 emergency care hotline",
+        "Personalized health monitoring and updates",
+        "Home visit (once per quarter)"
+      ],
+      "recommended": false
+    }
+  ]
+}

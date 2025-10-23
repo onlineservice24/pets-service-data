@@ -1,0 +1,49 @@
+{
+  "title": "Winter Care Tips for Pets",
+  "season": "Winter",
+  "description": "Helpful tips to keep your pets safe, warm, and healthy during the cold winter months.",
+  "tips": [
+    {
+      "id": 1,
+      "category": "Warmth & Shelter",
+      "tip": "Provide a warm and dry sleeping area indoors, away from drafts and cold floors.",
+      "details": "Use pet-safe heating pads or thick blankets. Avoid keeping pets outside for extended periods."
+    },
+    {
+      "id": 2,
+      "category": "Outdoor Safety",
+      "tip": "Limit outdoor time and supervise your pet when they go outside.",
+      "details": "Cold temperatures and icy surfaces can lead to frostbite or paw injuries. Always wipe their paws after walks to remove salt or ice-melt chemicals."
+    },
+    {
+      "id": 3,
+      "category": "Nutrition",
+      "tip": "Adjust food portions as needed based on your pet's activity level.",
+      "details": "Pets may need extra calories in cold weather if they spend time outdoors. Always provide fresh, unfrozen water."
+    },
+    {
+      "id": 4,
+      "category": "Grooming",
+      "tip": "Maintain proper grooming but avoid shaving fur too short.",
+      "details": "A clean, well-groomed coat provides better insulation. Keep fur around paws trimmed to prevent ice buildup."
+    },
+    {
+      "id": 5,
+      "category": "Health & Vet Care",
+      "tip": "Schedule a winter checkup with your vet.",
+      "details": "Cold weather can worsen conditions like arthritis. Discuss joint supplements or other treatments if needed."
+    },
+    {
+      "id": 6,
+      "category": "Clothing & Accessories",
+      "tip": "Use pet sweaters or coats for small or short-haired breeds.",
+      "details": "Ensure clothing fits well and doesn't restrict movement or cover wet areas."
+    },
+    {
+      "id": 7,
+      "category": "Toxic Substances",
+      "tip": "Keep antifreeze and de-icing products away from pets.",
+      "details": "Antifreeze is highly toxic but has a sweet taste that can attract animals. Clean up spills immediately."
+    }
+  ]
+}
