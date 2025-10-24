@@ -17,20 +17,6 @@
       }
     },
     {
-      "id": 2,
-      "name": "Dr. Rajesh Kumar",
-      "designation": "Senior Veterinary Surgeon",
-      "specialization": "Orthopedic & Soft Tissue Surgery",
-      "experienceYears": 12,
-      "bio": "Dr. Kumar specializes in surgical procedures and has helped countless pets recover from injuries and complex health conditions.",
-      "education": "BVSc & AH, University of Sydney",
-      "photoUrl": "https://example.com/images/dr-rajesh-kumar.jpg",
-      "contact": {
-        "email": "rajesh.kumar@petcareclinic.com",
-        "phone": "+1-555-987-6543"
-      }
-    },
-    {
       "id": 3,
       "name": "Dr. Emily Rodriguez",
       "designation": "Veterinary Nutritionist",
