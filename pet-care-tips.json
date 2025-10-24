@@ -44,6 +44,13 @@
       "category": "Toxic Substances",
       "tip": "Keep antifreeze and de-icing products away from pets.",
       "details": "Antifreeze is highly toxic but has a sweet taste that can attract animals. Clean up spills immediately."
-    }
+    },
+    {
+  "id": 8,
+  "category": "Nutrition & Hydration",
+  "tip": "Ensure your pet has constant access to fresh, clean water.",
+  "details": "Dehydration can occur quickly, especially in warm weather. Use a sturdy water bowl and refill it regularly to keep your pet healthy."
+}
+
   ]
 }
